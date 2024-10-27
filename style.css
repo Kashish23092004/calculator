@@ -23,13 +23,14 @@ body
     box-shadow: 5px 5px 15px #68cdca, -5px -5px 10px #ffffff; 
 }
 
-.heading
+.head
 {
     text-align: center;
     font-family: cursive;
-    padding-left: 10px;
+  
     font-size: 18px;
 }
+
 
 #display
 {
